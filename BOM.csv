@@ -1,13 +1,10 @@
 Qty,Value,Device,Package,Parts,Description,MF,"Mfr.Part #	",LCSC Number,Price 1,Price 10,LCSC Link
 5,,10-XX,B3F-10XX,"S1, S2, S3, S4, S5",Tactile Switch,Omron Electronics,B3FS-1000P,C271750,0.127517,0.094117,https://lcsc.com/product-detail/Others_Omron-Electronics-B3FS-1000P_C271750.html
-1,,USB_MICRO-BREDUCED_PASTE,USB-B-MICRO-SMD_RED_PASTE,J1,USB Type Micro-B Connector,Jing Extension of the Electronic Co.,C77238,C77238,0.055331,0.040337,https://lcsc.com/product-detail/USB-Connectors_Jing-Extension-of-the-Electronic-Co-C77238_C77238.html
 4,0.1uF,C-USC0805,C0805,"C1, C2, C6, C7","CAPACITOR, American symbol",HUI JU,NL0805B104J500CPBN,C840115,0.008557,0.006391,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_HUI-JU-NL0805B104J500CPBN_C840115.html
-1,16MHz,CRYSTAL-16MHZSMD-5X3.2,CRYSTAL-SMD-5X3.2-4PAD,Y1,16MHz Crystal,TAITIEN Elec,XVHCELNANF-16MHZ,C242216,0.306667,0.223333,https://lcsc.com/product-detail/SMD-Crystal-Resonators_TAITIEN-Elec-XVHCELNANF-16MHZ_C242216.html
 5,330,R-US_R0805,R0805,"R4, R5, R6, R7, R8","RESISTOR, American symbol",LIZ Elec,CR0805J80331G,C101994,0.001877,0.001356,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_330R-331-5_C101994.html
 3,4.7k,R-US_R0805,R0805,"R1, R2, R3","RESISTOR, American symbol",LIZ Elec,CR0805J80472G,C102017,0.002077,0.001511,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_4-7KR-472-5_C102017.html
-1,ATMEGA328PB-AU,ATMEGA328PB-AU,QFP80P900X900X120-32N,U1,ATmega Series 20 MHz 32 KB Flash 2 KB SRAM 8-Bit Microcontroller,Microchip Technology / Atmel,ATMEGA328PB-AU,,1.806667,1.35,https://lcsc.com/product-detail/MICROCHIP_MICROCHIP_ATMEGA328PB-AU_ATMEGA328PB-AU_C132230.html
-1,HD44780LCD-1602,Longtech Optics LCM1602K-FSW-FBW,LCD1602,X1,Longtech Optics LCM1602K-FSW-FBW,LongTech Optics,LCM1602K-FSW-FBW,C83274,4.493333,3.245,https://lcsc.com/product-detail/LCD-Displays-Modules_LCM1602K-FSW-FBW_C83274.html
-1,MMA8451QR1,MMA8451QR1,QFN50P300X300X100-16N,U2,"3-Axis, 14-bit/8-bit Digital Accelerometer",NXP USA,MMA8451QR1,C118083,2.228333,1.601667,https://lcsc.com/product-detail/Motion-Sensors-Accelerometers_NXP_MMA8451QR1_MMA8451QR1_C118083.html
+1,,ATMEGA328PB-AU,QFP80P900X900X120-32N,U1,ATmega Series 20 MHz 32 KB Flash 2 KB SRAM 8-Bit Microcontroller,Microchip Technology / Atmel,ATMEGA328PB-AU,C132230,1.806667,1.35,https://lcsc.com/product-detail/MICROCHIP_MICROCHIP_ATMEGA328PB-AU_ATMEGA328PB-AU_C132230.html
+1,,OLED,,X1,128x32 bit OLED,UG(Univision Semicon),UG-2832ALBMG09,C194626,7.97,7.765,https://lcsc.com/product-detail/OLED-Displays-Modules_UG-Univision-Semicon-UG-2832ALBMG09_C194626.html
+1,,Accelerometer,LGA-16_3x3mm,U2,"3-Axis, 14-bit/8-bit Digital Accelerometer",Analog Devices,ADXL362BCCZ-RL,C59641,2.643333,2.283333,https://lcsc.com/product-detail/Motion-Sensors-Accelerometers_Analog-Devices_ADXL362BCCZ-RL_Analog-Devices-ADI-LINEAR-ADXL362BCCZ-RL_C59641.html
 1,,Coin Battery,CR2032,,3V Lithium Coin Battery ,,,,,,
 1,,Coin Battery Holder,,,,,RK-2032,,,,http://www.reekart.com/products/30-Surface-Mount-Precision-Metal-Stamping-CR2032-Coin-Cell-Battery-Holder-For-MPD-BC-2003-Replacment.html
-1,,BOURNS 3314G-1-503E,,,BOURNS 3314G-1-503E,BOURNS,3314G-1-503E,C719184,0.603333,0.455,https://lcsc.com/product-detail/Potentiometers-Variable-Resistors_BOURNS-3314G-1-503E_C719184.html
